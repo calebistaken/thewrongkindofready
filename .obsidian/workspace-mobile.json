@@ -132,6 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Posts/Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "0f8a0f364bf2a0d2",
+  "active": "a894d07d354b9d52",
   "lastOpenFiles": [
     "Untitled.md",
     "Posts",
