@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posts/Test.md",
+                "file": "Posts/Testxyz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Testxyz"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posts/Test.md",
+                "file": "Posts/Testxyz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Testxyz"
             }
           }
         ],
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Posts/Test.md",
+            "file": "Posts/Testxyz.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -190,6 +190,6 @@
   "lastOpenFiles": [
     "Untitled.md",
     "Posts",
-    "Posts/Test.md"
+    "Posts/Testxyz.md"
   ]
 }
