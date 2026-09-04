@@ -1,6 +1,7 @@
 ---
 title: Testxyz
-post_date: 2026-10-11 01:23:45
+post_date: 2026-10-11
+post_status: publish
 ---
 
 And words 
